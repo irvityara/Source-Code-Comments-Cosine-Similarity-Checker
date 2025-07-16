@@ -25,7 +25,7 @@ Membantu peneliti atau pengembang mengevaluasi kualitas komentar kode otomatis (
 - /templates # HTML templates (Flask)
 - /static # Asset statis (CSS/JS)
 - /app.py # Aplikasi utama Flask
-- /similarity.py # Fungsi penghitungan SBERT + cosine similarity
+- /similarity.py # Fungsi penghitungan Sentence-BERT + cosine similarity
 - /README.md
 
 ## 🧪 Cocok Untuk
