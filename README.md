@@ -22,11 +22,11 @@ Membantu peneliti atau pengembang mengevaluasi kualitas komentar kode otomatis (
 3. Cosine similarity dihitung dan ditampilkan sebagai nilai skor kesamaan.
 
 ## 📁 Struktur Proyek (Singkat)
-/templates # HTML templates (Flask)
-/static # Asset statis (CSS/JS)
-/app.py # Aplikasi utama Flask
-/similarity.py # Fungsi penghitungan SBERT + cosine similarity
-/README.md
+- /templates # HTML templates (Flask)
+- /static # Asset statis (CSS/JS)
+- /app.py # Aplikasi utama Flask
+- /similarity.py # Fungsi penghitungan SBERT + cosine similarity
+- /README.md
 
 ## 🧪 Cocok Untuk
 - Penelitian tentang dokumentasi otomatis menggunakan AI
